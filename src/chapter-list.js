@@ -1,0 +1,21 @@
+export default {
+  SONNIES_EDGE: `Sonnie's edge`,
+  THREE_ROBOTS: `Three robots`,
+  THE_WITNESS: `The witness`,
+  SUITS: `Suits`,
+  SUCKER_OF_SOULS: `Sucker of souls`,
+  WHEN_THE_YOGURT_TOOK_OVER: `When the yogurt took over`,
+  BEYOND_THE_AQUILA_RIFT: `Beyond the Aquila Rift`,
+  GOOD_HUNTING: `Good hunting`,
+  THE_DUMP: `The dump`,
+  SHAPE_SHIFTERS: `Shape-shifters`,
+  HELPING_HAND: `Helping hand`,
+  FISH_NIGHT: `Fish night`,
+  LUCKY_13: `Lucky 13`,
+  ZIMA_BLUE: `Zima blue`,
+  BLINDSPOT: `Blindspot`,
+  ICE_AGE: `Ice age`,
+  ALTERNATE_HISTORIES: `Alternate histories`,
+  SECRET_WAR: `Secret war`,
+}
+
