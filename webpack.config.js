@@ -1,11 +1,10 @@
-const path = require('path')
-const CompressionPlugin = require('compression-webpack-plugin')
+const path = require("path");
 
 module.exports = {
-  mode: 'production' ,
+  mode: "production",
   output: {
-    path: path.resolve(__dirname, 'dist'),
-    filename: 'bundle.js'
+    path: path.resolve(__dirname, "dist"),
+    filename: "bundle.js"
   },
   module: {
     rules: [
@@ -15,10 +14,10 @@ module.exports = {
         use: {
           loader: "babel-loader"
         }
-      },
+      }
     ]
   },
   devServer: {
-    contentBase: path.resolve(__dirname, 'dist')
+    contentBase: path.resolve(__dirname, "dist")
   }
-}
+};
