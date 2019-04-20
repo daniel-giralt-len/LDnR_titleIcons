@@ -16,6 +16,5 @@ export default {
   BLINDSPOT: `Blindspot`,
   ICE_AGE: `Ice age`,
   ALTERNATE_HISTORIES: `Alternate histories`,
-  SECRET_WAR: `Secret war`,
-}
-
+  SECRET_WAR: `Secret war`
+};
